@@ -1,0 +1,18 @@
+{
+    "name": "nest/routing",
+    "description": "Routing system for Nest Framework.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nest\\Routing\\": "Routing/"
+        }
+    },
+    "authors": [
+        {
+            "name": "baraichgurvir",
+            "email": "baraichgurvir2007@gmail.com"
+        }
+    ],
+    "require": {}
+}
